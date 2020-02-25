@@ -9,6 +9,10 @@
 - [c2d-video-iojs: C2D-aka-HTTP2IPFS video transporter in ioJS.](https://github.com/C2D-aka-HTTP2IPFS/c2d-video-iojs)
 - [Filecoin Open Grant](https://github.com/C2D-aka-HTTP2IPFS/devgrants/blob/master/open-grant-proposals/open-proposal-http2ipfs.md) - [PR](https://github.com/filecoin-project/devgrants/pull/71)
 
+---
+
+- [textile.io: Write, deploy, and scale apps on IPFS](https://github.com/textileio/)
+
 ---------
 ### Philosophy
 - Distributed: Peerful, Serverless, Personal
